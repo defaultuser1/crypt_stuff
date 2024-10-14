@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Dev\OpensslTest\OpensslTest\main.cpp(37,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  OpensslTest.vcxproj -> C:\Dev\OpensslTest\x64\Debug\OpensslTest.exe
